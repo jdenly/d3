@@ -1,0 +1,170 @@
+{
+  "name": "Categories with percentage complete",
+  "children": [
+    {
+      "name": "Cloudify Architectures",
+      "children": [
+        {
+          "name": "Backend Content",
+          "children": [
+            {
+              "name": "Agile Channels",
+              "value": 100,
+              "done": 80
+            },
+            {
+              "name": "Elastic Meta-Markets",
+              "value": 100,
+              "done": 45
+            },
+            {
+              "name": "Just in Time Synergy",
+              "value": 100,
+              "done": 77
+            }
+          ]
+        },
+        {
+          "name": "Reinvent Holistic Data",
+          "children": [
+            {
+              "name": "Corporate E-Tailers",
+              "value": 100
+            },
+            {
+              "name": "B2B Value",
+              "value": 100,
+              "done": 30
+            },
+            {
+              "name": "Reinvent Global ROI",
+              "value": 100
+            },
+            {
+              "name": "Grow Dynamic Ideas",
+              "value": 100
+            }
+          ]
+        },
+        {
+          "name": "Common Services",
+          "children": [
+            {
+              "name": "Empowered Mindshare",
+              "value": 100,
+              "done": 67
+            }
+          ]
+        },
+        {
+          "name": "Legacy Services",
+          "children": [
+            {
+              "name": "Dynamic Vortals",
+              "value": 100,
+              "done": 22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Optimize Frictionless Portals",
+      "children": [
+        {
+          "name": "Global Schemas",
+          "children": [
+            {
+              "name": "Negotiate Ethical NoSQL",
+              "value": 100,
+              "done": 85
+            },
+            {
+              "name": "Enable Business Interfaces",
+              "value": 100
+            },
+            {
+              "name": "Elastic Clouds",
+              "value": 100,
+              "done": 100
+            }
+          ]
+        },
+        {
+          "name": "BI and Analytics",
+          "children": [
+            {
+              "name": "Analytics Applications",
+              "value": 100,
+              "done": 25
+            },
+            {
+              "name": "Data Warehouses/Lakes",
+              "value": 100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Excellent Metrics",
+      "children": [
+        {
+          "name": "Dynamic Mindshare",
+          "children": [
+            {
+              "name": "Unit Testing",
+              "value": 100,
+              "done": 50
+            },
+            {
+              "name": "Fully Test Scrums",
+              "value": 100
+            },
+            {
+              "name": "Fungible Niche Markets",
+              "value": 100,
+              "done": 75
+            },
+            {
+              "name": "Magnetic Value",
+              "value": 100,
+              "done": 25
+            }
+          ]
+        },
+        {
+          "name": "Reinvent Focused Metrics",
+          "children": [
+            {
+              "name": "App Containerisation",
+              "value": 100,
+              "done": 50
+            },
+            {
+              "name": "Enterprise Meta-Services",
+              "value": 100,
+              "done": 25
+            }
+          ]
+        },
+        {
+          "name": "Covalent Expertise",
+          "children": [
+            {
+              "name": "Collaborative Human Capital",
+              "value": 100,
+              "done": 50
+            },
+            {
+              "name": "Generate Diverse Niches",
+              "value": 100,
+              "done": 50
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+
