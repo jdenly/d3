@@ -15,7 +15,8 @@
             {
               "name": "Elastic Meta-Markets",
               "value": 100,
-              "done": 45
+              "done": 45,
+              "active": false
             },
             {
               "name": "Just in Time Synergy",
@@ -26,6 +27,7 @@
         },
         {
           "name": "Reinvent Holistic Data",
+          "active": false,
           "children": [
             {
               "name": "Corporate E-Tailers",
